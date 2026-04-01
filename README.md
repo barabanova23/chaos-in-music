@@ -17,8 +17,8 @@
 ## Датасеты
 
 - [GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
-- [FakeMusicCaps](https://arxiv.org/abs/2409.10684)
-- [SONICS](https://arxiv.org/abs/2408.14080)
+- [FakeMusicCaps](https://www.kaggle.com/datasets/awsaf49/fmc-dataset)
+- [SONICS](https://www.kaggle.com/datasets/awsaf49/sonics-dataset)
 
 ## Структура репозитория
 
